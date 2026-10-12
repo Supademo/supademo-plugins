@@ -62,6 +62,8 @@ The plugin supplies Markdown instructions and a remote connector reference. It i
 
 Requested Supademo actions can publish a demo or showcase, create sharing links, crawl supplied websites, generate media, or use connected integrations. Viewer/session investigations can return personal information, and enabled Agent automations can deliver information to configured recipients. Those actions remain subject to your request and Supademo's permissions. Supademo processes and retains service data according to its [Privacy Policy](https://supademo.com/privacy-policy).
 
+If you explicitly request sending a follow-up or digest, a skill may use an available, separately connected messaging tool to send the requested text, demo links, or analytics summary to email or Slack. Supademo Agent automations can deliver conversation data to configured email recipients, Slack, CRM integrations, or webhook endpoints through the Supademo connector. These optional deliveries require authorization for the content and recipients; destinations and connections come from your request and account configuration.
+
 ## Support and license
 
 - [Supademo help](https://supademo.com/help)

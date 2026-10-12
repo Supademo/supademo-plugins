@@ -1,0 +1,12 @@
+{
+  "name": "supademo",
+  "version": "1.0.0",
+  "description": "Create, personalize, organize, and analyze interactive product demos with 25 Supademo workflow skills and your connected Supademo account.",
+  "author": {
+    "name": "Supademo",
+    "url": "https://supademo.com"
+  },
+  "homepage": "https://supademo.com",
+  "license": "MIT",
+  "keywords": ["supademo", "product-demos", "sales", "onboarding", "analytics"]
+}
